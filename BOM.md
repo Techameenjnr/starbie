@@ -13,10 +13,9 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [Seeed Studio XIAO ESP32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | Main microcontroller for Starbie | 1 | $4.99 | $4.99 | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| [Grove temperature and humidity sensor (DHT11)](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html) | Measures temperature and humidity | 1 | $5.00 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html) |
 | [0.96-inch OLED display, 128×64, SSD1306](https://www.adafruit.com/product/326) | Starbie's visual display | 1 | $17.50 | $17.50 | [Adafruit](https://www.adafruit.com/product/326) |
-| **Parts subtotal** | — | — | — | **$27.49** | — |
+| **Parts subtotal** | — | — | — | **$22.49** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$27.49** | — |
+| **Total** | — | — | — | **$22.49** | — |
 
-$2.51 left of the tier's funding.
+$7.51 left of the tier's funding.
