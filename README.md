@@ -65,3 +65,7 @@ See [JOURNAL.md](JOURNAL.md) for the project planning entry and [BOM.md](BOM.md)
 ## Credits
 
 Starbie is based on the Week 1 guide and starter firmware from [SharKingStudios/Starbie](https://github.com/SharKingStudios/Starbie). This repository records my own build progress and future hardware changes.
+## PCB Design
+
+![Starbie routed PCB layout](images/starbie-pcb.png)
+
