@@ -15,6 +15,7 @@
 ## Contents
 
 1. [2026-10-07 – I  Planned Starbie, an AI-powered physical digital pet. Explored its core features, hardware, AI, movement, expressions, and voice interaction. I also planned the first prototype and user flow. Great!](#2026-10-07-i-planned-starbie-an-ai-powered-physical-digital-)
+2. [2026-10-14 – Completed the Week 2 Starbie Shell CAD enclosure](#2026-10-14-completed-the-week-2-starbie-shell-cad-enclosure)
 
 ## Design
 
@@ -27,3 +28,8 @@ I  Planned Starbie, an AI-powered physical digital pet. Explored its core featur
 ![Starbie Project Plan and Sketch](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lw7oMas03HUWHqVWAz9oQzh6wS7q52Qb/4ca5f5630ad49bfaa3bdd8fda6acadb193f132226e51c046dc2f4754f1c06d35.png)
 
 ![Starbie AI Pet Concept Sketch](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lw7oMas03HUWHqVWAz9oQzh6wS7q52Qb/9532a9c454226e77065ee24acc5b42dbf7041c845d8c40575e5cef692771a79f.png)
+
+
+### 2026-10-14 – Completed the Week 2 Starbie Shell CAD enclosure
+
+I measured the PCB outline from KiCad and completed a parametric enclosure base and removable lid, with corner shelves and ribs that connect to the walls and floor. I exported both parts with OpenSCAD, checked that each STL is a single closed mesh, and documented the mismatch in the supplied component CSV. Physical fit and printability still need testing.

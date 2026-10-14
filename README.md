@@ -54,6 +54,10 @@ The KiCad schematic and PCB source files are included in this repository:
 
 The board is routed. The latest KiCad DRC reports zero unconnected items and zero schematic parity issues, with one U1 local footprint library mismatch warning. The board is not confirmed fabrication-ready, so manufacturing outputs are not included.
 
+## CAD enclosure
+
+The Week 2 parametric Starbie Shell model is in [cad/starbie_shell.scad](cad/starbie_shell.scad), with assumptions and verification notes in [cad/README.md](cad/README.md). The final OpenSCAD exports are [cad/exports/starbie_shell_base.stl](cad/exports/starbie_shell_base.stl) (73.5 × 64 × 18 mm) and [cad/exports/starbie_shell_lid.stl](cad/exports/starbie_shell_lid.stl) (77.8 × 68.3 × 8 mm). OpenSCAD export and mesh inspection found each STL to be one connected, closed mesh. These checks do not verify component clearance, physical fit, strength, or printability; connector and control openings also remain unverified.
+
 ### PCB photo
 
 A genuine KiCad PCB Editor screenshot should be added here after capturing the board in PCB Editor. No PCB screenshot is included yet.
