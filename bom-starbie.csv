@@ -1,0 +1,7 @@
+Reference,Quantity,Value,Notes
+J1,1,Connector,Confirm exact connector specification
+J2,1,Connector,Confirm exact connector specification
+SW1,1,Switch,Confirm exact switch specification
+SW2,1,Switch,Confirm exact switch specification
+U1,1,XIAO-ESP32-C3-SMD,Microcontroller module
+U2,1,DHT11,Temperature and humidity sensor
