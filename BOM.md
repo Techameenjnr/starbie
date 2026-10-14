@@ -16,10 +16,9 @@
 | [Grove temperature and humidity sensor (DHT11)](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html) | Measures temperature and humidity | 1 | $5.00 | $5.00 | [Seeed Studio](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html) |
 | [Grove Button](https://www.seeedstudio.com/search.html?query=Grove%20Button) | Physical user inputs | 2 | $1.92 | $3.84 | [Seeed Studio](https://www.seeedstudio.com/search.html?query=Grove%20Button) |
 | [7-Pin Male Header for XIAO](https://www.seeedstudio.com/search.html?query=7-Pin%20Male%20Header) | Connecting the XIAO board to the circuit | 1 | $0.20 | $0.20 | [Seeed Studio](https://www.seeedstudio.com/search.html?query=7-Pin%20Male%20Header) |
-| [Resistors and other passive components used in the circuit](https://www.seeedstudio.com/search.html?query=resistors) | Supporting circuit operation | 1 | $1.00 | $1.00 | [Seeed Studio](https://www.seeedstudio.com/search.html?query=resistors) |
 | [0.96-inch OLED display, 128×64, SSD1306](https://www.adafruit.com/product/326) | Starbie's visual display | 1 | $17.50 | $17.50 | [Adafruit](https://www.adafruit.com/product/326) |
-| **Parts subtotal** | — | — | — | **$32.53** | — |
+| **Parts subtotal** | — | — | — | **$31.53** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$32.53** | — |
+| **Total** | — | — | — | **$31.53** | — |
 
-**$2.53 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$1.53 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
