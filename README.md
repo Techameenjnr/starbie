@@ -46,7 +46,17 @@ Select **XIAO_ESP32C3** as the board in Arduino IDE.
 
 ## PCB design status
 
-The schematic and initial PCB layout are being developed in KiCad. The schematic has passed ERC with zero errors; remaining warnings and the final PCB routing/DRC still need verification. The board is not yet confirmed fabrication-ready. The KiCad project files and exported Gerbers should be added here after final checks.
+The KiCad schematic and PCB source files are included in this repository:
+
+- [PCB layout](starbie.kicad_pcb)
+- [Schematic](starbie.kicad_sch)
+- [KiCad project settings](starbie.kicad_pro)
+
+The board is routed. The latest KiCad DRC reports zero unconnected items and zero schematic parity issues, with one U1 local footprint library mismatch warning. The board is not confirmed fabrication-ready, so manufacturing outputs are not included.
+
+### PCB photo
+
+A genuine KiCad PCB Editor screenshot should be added here after capturing the board in PCB Editor. No PCB screenshot is included yet.
 
 ## Project log
 
